@@ -11,7 +11,6 @@ export default new VueRouter({
         {
             path: '/vehicle/:id',
             component: DetailPage,
-
         }
     ]
 })
